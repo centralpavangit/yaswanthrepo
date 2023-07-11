@@ -1,1 +1,1 @@
-print("vasi vadi tassa diyya")
+ print("vasi vadi tassa diyya vadatsam")
